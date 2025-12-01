@@ -1,11 +1,11 @@
 {
-  "name": "Lemon Token List",
+  "name": "Lemiri Token List",
   "timestamp": "2025-11-29T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 137,
       "address": "0x1582800B6fB032b1101A911e5006C9Ec0AAEe812",
-      "name": "Lemon",
+      "name": "Lemiri",
       "symbol": "LEMEN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Digital1X1/lemon-token-assets/main/lemon_token_512.png"
